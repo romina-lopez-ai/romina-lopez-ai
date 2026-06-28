@@ -14,9 +14,13 @@
 
 ## 📌 Featured projects
 
-- **[Sentinel](https://github.com/romina-lopez-ai/sentinel)** — Multi-agent intelligence system (LangGraph + MCP + 6 agents + 10 servers)
-- **[BLEVE Predictor](https://github.com/romina-lopez-ai/bleve-predictor)** — Explainable ML for industrial risk (XGBoost + SHAP + FastAPI + MLOps)
-- **Skin Care Assistant** — Multimodal AI for dermatology (LLaMA + DenseNet + LangGraph + RAG). Capstone, paper under review at ICONIP 2026. *Code restricted during review.*
+- **[Sentinel](https://github.com/romina-lopez-ai/sentinel)** — Multi-agent intelligence system that autonomously discovers, filters, and scores AI job listings and research trends. Built with LangGraph, MCP, 6 specialised agents, and 10 MCP servers. Explores 2026-era multi-agent architectures and human-in-the-loop workflows.
+
+- **[BLEVE Predictor](https://github.com/romina-lopez-ai/bleve-predictor)** — Explainable ML system predicting industrial explosion overpressure, with SHAP-based interpretability. XGBoost + FastAPI + Docker + MLflow + GitHub Actions CI/CD. End-to-end MLOps on a real-world safety problem.
+
+- **[Skin Care Assistant](https://github.com/romina-lopez-ai/skin-care-assistant)** — Multimodal AI for preliminary dermatology screening (Master's capstone). LLaMA-3.2-3B + DenseNet + LangGraph + RAG. Achieved accuracy 0.657, comparable to LLaVA-1.5-7B at a fraction of the compute. *Source code restricted while paper is under review at ICONIP 2026.*
+
+- **[AI Research Benchmarks](https://github.com/romina-lopez-ai/advanced_ai_research)** — Three benchmarking studies across Computer Vision (semantic segmentation), Generative AI (LLM-based suicide risk detection + AI safety), and Temporal Pattern Recognition (ECG with explainable AI). Focus on model selection, sustainability, and responsible AI deployment.
 
 ## 🛠️ Tech I work with
 
